@@ -6,7 +6,6 @@ This is a Netflix UI clone created using HTML and CSS 🎬. This project mirrors
 
 Here is the screenshots of the project:
 
-![image](https://github.com/user-attachments/assets/4ceea833-0ccb-48e5-911a-ad1604e87e40)
-
+![image](https://github.com/user-attachments/assets/29714a50-550c-4f04-a177-42f7e1015f70)
 
 *I tried my best to make it exactly same like Orignal.*
